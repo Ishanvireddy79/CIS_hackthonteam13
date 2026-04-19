@@ -1,0 +1,6 @@
+node_modules/
+*/node_modules/
+frontend/build/
+.azure-config
+*.env
+.DS_Store
